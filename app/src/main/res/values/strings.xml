@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YandexMoneyTree</string>
+
+    <string name="title_activity_sub_cat">SubCatActivity</string>
+    <string name="title_activity_sub_sub_category">SubSubCategory</string>
+
+    <string name="action_refresh">Обновить</string>
+    <string name="no_internet">С интернетом что-то не так. Пожалуйста, проверьте подключение к сети.</string>
+
+</resources>
